@@ -1,0 +1,19 @@
+Project Title: 		PCB Raspberry Pi
+Borard Title: 		Board1
+PCB Title: 		PCB1
+Time: 		2025-02-15 12:50:20
+
+Borard Size: 		257.5mm x 165.5mm
+Layers: 		Total 26, Copper 6
+
+Devices: 		71
+Footprints: 		54
+Components: 		Total 146,Top Layer 146,Bottom Layer 0
+Pads: 		Total 862, Table Stick 720,Metallized Hole 142, Nonmetallic Hole 0
+Nets: 		Total 182, Unrouted 1
+
+Slot Region: 		10
+Vias: 		Total 419, Through Vias 419, Blind Or Buried Vais 0
+CopperAreas: 		2
+Length of Tracks: 		17161.571mm
+
